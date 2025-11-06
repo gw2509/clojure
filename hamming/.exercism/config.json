@@ -1,0 +1,26 @@
+{
+  "authors": [
+    "yurrriq"
+  ],
+  "contributors": [
+    "AndreaCrotti",
+    "haus",
+    "heyarne",
+    "sjwarner-bp",
+    "tasxatzial"
+  ],
+  "files": {
+    "solution": [
+      "src/hamming.clj"
+    ],
+    "test": [
+      "test/hamming_test.clj"
+    ],
+    "example": [
+      ".meta/example.clj"
+    ]
+  },
+  "blurb": "Calculate the Hamming distance between two DNA strands.",
+  "source": "The Calculating Point Mutations problem at Rosalind",
+  "source_url": "https://rosalind.info/problems/hamm/"
+}
