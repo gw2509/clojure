@@ -9,7 +9,7 @@
     (if (> l h)
       -1
       (let [m (+ l (quot (- h l) 2))
-            v (nth coll m)]
+            v (nth   coll m)]
         (cond
           (= v num) m
           (> v num) (recur l (dec m))
