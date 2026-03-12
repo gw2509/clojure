@@ -1,0 +1,30 @@
+{
+  "authors": [
+    "rubysolo"
+  ],
+  "contributors": [
+    "AndreaCrotti",
+    "canweriotnow",
+    "dkinzer",
+    "haus",
+    "kytrinyx",
+    "mathias",
+    "sjwarner-bp",
+    "yurrriq",
+    "tasxatzial"
+  ],
+  "files": {
+    "solution": [
+      "src/atbash_cipher.clj"
+    ],
+    "test": [
+      "test/atbash_cipher_test.clj"
+    ],
+    "example": [
+      ".meta/example.clj"
+    ]
+  },
+  "blurb": "Create an implementation of the Atbash cipher, an ancient encryption system created in the Middle East.",
+  "source": "Wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Atbash"
+}
